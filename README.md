@@ -16,7 +16,7 @@ Over the last year, developers from different parts of the world have published 
 - [Objects](#objects)
 - [ES6 and More](#es6--more)
 - [Promise](#promise)
-- [Fun Projects](#projects)
+- [Fun Projects](#fun-projects)
 
 ## `this`
 
